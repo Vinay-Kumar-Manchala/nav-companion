@@ -1,0 +1,6 @@
+0 9-16 * * 1-5 /usr/bin/python3 /home/ubuntu/navCompanion/src/useme/devadattam.py small_cap 
+10 9-16 * * 1-5 /usr/bin/python3 /home/ubuntu/navCompanion/src/useme/devadattam.py large_cap 
+20 9-16 * * 1-5 /usr/bin/python3 /home/ubuntu/navCompanion/src/useme/devadattam.py mid_cap
+30 9-16 * * 1-5 /usr/bin/python3 /home/ubuntu/navCompanion/src/useme/devadattam.py small_cap 
+40 9-16 * * 1-5 /usr/bin/python3 /home/ubuntu/navCompanion/src/useme/devadattam.py large_cap 
+50 9-16 * * 1-5 /usr/bin/python3 /home/ubuntu/navCompanion/src/useme/devadattam.py mid_cap
