@@ -35,6 +35,9 @@ class LogicHandler():
         tr:nth-child(even) {
             background-color: #f9f9f9;
         }
+	tr:hover{
+ 		background-color:#eee;
+	}
         .positive {
             color: green;
         }
