@@ -29,7 +29,8 @@ class LogicHandler():
             padding: 8px;
             text-align: left;
         }th {
-            background-color: #f4f4f4;
+            background-color: green;
+	    color:#fff;
         }
         tr:nth-child(even) {
             background-color: #f9f9f9;
@@ -47,8 +48,8 @@ class LogicHandler():
 </head>
 <body>
 
-    <h1>Live Mutual Fund Tracker</h1>
-    <h1>Last Updated at: _lut_</h1>
+    <h1 style="display:flex;justify-content:center;color:green;border:2px solid;border-radius:10px;">Live Mutual Fund Tracker</h1>
+    <h3 style="display:flex;justify-content:end;">Last Updated at: _lut_</h3>
 
     <table>
         <thead>
